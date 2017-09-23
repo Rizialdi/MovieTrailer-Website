@@ -5,8 +5,8 @@ The project you see here contains 3 python files and is a part of an Udacity nan
 
 This is a screenshot of the landing Page
 
-https://imgur.com/a/jGfev
+![](https://imgur.com/a/jGfev)
 
 This is a screenshot of a trailer
 
-https://imgur.com/a/G2M7J
+![](https://imgur.com/a/G2M7J)
